@@ -347,7 +347,18 @@ Root compromise successfully.
 
 ---
 
+## 🛠️ Tools Used
+- Nmap
+- Gobuster
+- Cyberchef
+- Netcat
+- Ltrace
+
+---
+
 ## 👨‍💻 Author
 **Jeet Bandhara**
 - https://github.com/Jeet-Bandhara?utm_source=chatgpt.com
 - https://medium.com/@bndjeet11
+
+---
